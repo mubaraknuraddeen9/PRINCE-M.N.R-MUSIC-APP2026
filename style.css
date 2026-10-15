@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #111111;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: #000000;
+  color: gold;
+  text-align: center;
+  padding: 25px 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 26px;
+}
+
+header p {
+  color: white;
+}
+
+.music-section {
+  padding: 20px;
+  text-align: center;
+}
+
+.music-card {
+  background: #222222;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 12px;
+  border: 1px solid gold;
+}
+
+button {
+  background: gold;
+  color: black;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: bold;
+}
